@@ -1,0 +1,8 @@
+pandas
+prophet
+xgboost
+scikit-learn
+google-generativeai
+streamlit
+langchain
+plotly
